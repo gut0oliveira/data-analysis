@@ -22,7 +22,7 @@ Os projetos utilizam diferentes conjuntos de dados e problemas para demonstrar t
 
 ## Projetos
 
-### 🏠 House Sales in King County, USA
+### House Sales in King County, USA
 
 Análise de dados do mercado imobiliário de **King County, Washington**, com o objetivo de investigar os fatores relacionados ao preço dos imóveis.
 
@@ -43,7 +43,7 @@ O projeto envolve análise exploratória, visualização das principais caracter
 
 ---
 
-### 🚗 Automobile Sales Dashboard
+### Automobile Sales Dashboard
 
 Projeto de análise e visualização de dados históricos de vendas de automóveis, com foco na comparação entre períodos regulares e períodos de recessão econômica.
 
