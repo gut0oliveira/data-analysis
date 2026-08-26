@@ -2,7 +2,7 @@
 
 <p align="center">Projetos de análise exploratória, visualização e modelagem de dados utilizando Python.</p>
 
-## Sobre o repositório
+## 
 
 Este repositório reúne projetos desenvolvidos para aplicar diferentes etapas de uma análise de dados, incluindo preparação e exploração dos dados, identificação de padrões, visualização, construção de dashboards e modelagem estatística.
 
